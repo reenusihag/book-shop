@@ -1,10 +1,6 @@
 
-		Book-Shop
+#		Book-Shop
 
-Book-shop is a Kavantum Intenship Assignment base on google-books-search api.
-
-
-Assignment Designed in : 
 
 Tools and Technology required : Node.js, WEB browser.
 
