@@ -6,6 +6,19 @@ Tools and Technology required : Node.js, WEB browser.
 
 For 	Backend : Node.js
 	Frontend: CSS
+<br>	
+``` Home ```
+![Home](https://raw.githubusercontent.com/reenusihag/book-shop/master/home.jpg) 
+
+<br>
+
+``` Search a book ```
+![search](https://raw.githubusercontent.com/reenusihag/book-shop/master/search_item.jpg) 
+
+<br>
+
+``` Search a book ```
+![search-undefine](https://raw.githubusercontent.com/reenusihag/book-shop/master/undefine_book_search.jpg)
 
 How to Run:
 
@@ -36,6 +49,6 @@ Test Case Id     Test Scenario               Test Steps       Test Data      Exp
 5.		 Invalid book title          Search Book      jhvjhv	     Show sorry image	  Show sorry image   pass
 
 
-- Reenu
+- Reenu <br>
   reenusihagdatta@gmail.com
                       
